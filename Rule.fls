@@ -1,6 +1,6 @@
-PWD c:\LaTeX\S2Rule\S2Rule
+PWD c:\LaTeX\S2Rule
 INPUT C:\Users\ruoya\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\LaTeX\S2Rule\S2Rule\Rule.tex
+INPUT c:\LaTeX\S2Rule\Rule.tex
 OUTPUT Rule.log
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -67,5 +67,7 @@ OUTPUT Rule.aux
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT .\images\牌種類.png
+INPUT .\images\牌種類.png
 OUTPUT Rule.xdv
 INPUT Rule.aux
