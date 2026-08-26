@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1787743346.76616 "Rule.xdv" "Rule.pdf" "Rule" 1787743347.56896 0
-  "Rule.xdv" 1787743346 27632 dc15779877840d0b9ab824d76a31b862 "xelatex"
+["xdvipdfmx"] 1787758615.21261 "Rule.xdv" "Rule.pdf" "Rule" 1787758616.40942 0
+  "Rule.xdv" 1787758614 45248 e481e53af0a454c8a9e8697a1d5abf07 "xelatex"
   (generated)
   "Rule.pdf"
   (rewritten before read)
-["xelatex"] 1787743344.93922 "c:/LaTeX/S2Rule/Rule.tex" "Rule.xdv" "Rule" 1787743347.56278 0
+["xelatex"] 1787758613.25403 "c:/LaTeX/S2Rule/Rule.tex" "Rule.xdv" "Rule" 1787758616.40278 0
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -43,9 +43,9 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "Rule.aux" 1787743346 32 2d1df76398b3c48c6419a45a7331db2d "xelatex"
-  "Rule.tex" 1787743344 6437 991bfde0203ba505db39b14e44099ff0 ""
-  "c:/LaTeX/S2Rule/Rule.tex" 1787743344 6437 991bfde0203ba505db39b14e44099ff0 ""
+  "Rule.aux" 1787758614 32 4d1825978335c8847f72f7c473f9edc8 "xelatex"
+  "Rule.tex" 1787758612 10383 3edab4e14678e04e31cce6be726494a6 ""
+  "c:/LaTeX/S2Rule/Rule.tex" 1787758612 10383 3edab4e14678e04e31cce6be726494a6 ""
   (generated)
   "Rule.aux"
   "Rule.log"
