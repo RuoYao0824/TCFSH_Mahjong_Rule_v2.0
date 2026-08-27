@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  26 AUG 2026 23:36
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  27 AUG 2026 21:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,13 +205,15 @@ Package fontspec Info:
 
 Package fontspec Info: 
 (fontspec)             Font family 'kaiu.ttf(0)' created for font 'kaiu.ttf'
-(fontspec)             with options [Script={CJK}].
+(fontspec)             with options [Script={CJK},AutoFakeBold={4}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[kaiu.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[kaiu.ttf]/OT:script=hani;language=dflt;embolden=4;"
 
  (Rule.aux)
 \openout1 = `Rule.aux'.
@@ -332,10 +334,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 ]
-
-LaTeX Font Warning: Font shape `TU/kaiu.ttf(0)/b/n' undefined
-(Font)              using `TU/kaiu.ttf(0)/m/n' instead on input line 22.
-
 File: ./images/牌種類.png Graphic file (type bmp)
 <./images/牌種類.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -344,32 +342,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
-[2] [3]
+ [2]
 File: ./images/牌組合.png Graphic file (type bmp)
 <./images/牌組合.png>
- [4] [5]
+ [3] [4]
 File: ./images/抓位.png Graphic file (type bmp)
 <./images/抓位.png>
- [6]
+ [5]
 File: ./images/可動範圍.png Graphic file (type bmp)
 <./images/可動範圍.png>
- [7] (Rule.aux)
+ [6]
+File: ./images/捨牌.png Graphic file (type bmp)
+<./images/捨牌.png>
+ [7] [8]
+File: ./images/y324s.png Graphic file (type bmp)
+<./images/y324s.png>
+ [9]
+File: ./images/碰牌.png Graphic file (type bmp)
+<./images/碰牌.png>
+File: ./images/暗槓.png Graphic file (type bmp)
+<./images/暗槓.png>
+File: ./images/加槓.png Graphic file (type bmp)
+<./images/加槓.png>
+File: ./images/大明槓.png Graphic file (type bmp)
+<./images/大明槓.png>
+ [10]
+File: ./images/排列副露.png Graphic file (type bmp)
+<./images/排列副露.png>
+File: ./images/供託排列.png Graphic file (type bmp)
+<./images/供託排列.png>
+ [11]
+File: ./images/莊家點數表.jpg Graphic file (type bmp)
+<./images/莊家點數表.jpg>
+File: ./images/閒家點數表.jpg Graphic file (type bmp)
+<./images/閒家點數表.jpg>
+ [12]
+File: ./images/役滿點數表.jpg Graphic file (type bmp)
+<./images/役滿點數表.jpg>
+ [13] [14]
+File: ./images/聽牌符.jpg Graphic file (type bmp)
+<./images/聽牌符.jpg>
+File: ./images/部分符.jpg Graphic file (type bmp)
+<./images/部分符.jpg>
+ [15] [16] [17] [18] (Rule.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
  ) 
 Here is how much of TeX's memory you used:
- 5638 strings out of 402982
- 163356 string characters out of 5448473
- 613940 words of memory out of 5000000
- 34306 multiletter control sequences out of 15000+600000
+ 5827 strings out of 402982
+ 168928 string characters out of 5448473
+ 624940 words of memory out of 5000000
+ 34480 multiletter control sequences out of 15000+600000
  632136 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,6n,93p,307b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Rule.xdv (7 pages, 45248 bytes).
+Output written on Rule.xdv (18 pages, 161996 bytes).
