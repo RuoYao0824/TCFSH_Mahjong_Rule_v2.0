@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  31 AUG 2026 02:48
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  31 AUG 2026 08:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -301,15 +301,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=788.14136pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -342,31 +342,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 45.
- [2]
+ [2] [3]
 File: ./images/牌組合.png Graphic file (type bmp)
 <./images/牌組合.png>
- [3] [4]
+ [4]
 File: ./images/抓位.png Graphic file (type bmp)
 <./images/抓位.png>
  [5]
 File: ./images/可動範圍.png Graphic file (type bmp)
 <./images/可動範圍.png>
- [6]
+ [6] [7]
 File: ./images/捨牌.png Graphic file (type bmp)
 <./images/捨牌.png>
- [7] [8]
+ [8] [9]
 File: ./images/y324s.png Graphic file (type bmp)
 <./images/y324s.png>
- [9]
 File: ./images/碰牌.png Graphic file (type bmp)
 <./images/碰牌.png>
+ [10]
 File: ./images/暗槓.png Graphic file (type bmp)
 <./images/暗槓.png>
 File: ./images/加槓.png Graphic file (type bmp)
 <./images/加槓.png>
 File: ./images/大明槓.png Graphic file (type bmp)
 <./images/大明槓.png>
- [10]
 File: ./images/排列副露.png Graphic file (type bmp)
 <./images/排列副露.png>
 File: ./images/供託排列.png Graphic file (type bmp)
@@ -393,10 +392,10 @@ L3 programming layer <2022/08/05>
 Here is how much of TeX's memory you used:
  5827 strings out of 402982
  168928 string characters out of 5448473
- 624940 words of memory out of 5000000
+ 621936 words of memory out of 5000000
  34480 multiletter control sequences out of 15000+600000
  632136 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,6n,93p,307b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Rule.xdv (18 pages, 163364 bytes).
+Output written on Rule.xdv (18 pages, 162756 bytes).
